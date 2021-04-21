@@ -6,7 +6,7 @@
   <link href="https://mintcolor.top/atom.xml" rel="self"/>
   
   <link href="https://mintcolor.top/"/>
-  <updated>2021-04-18T16:32:42.366Z</updated>
+  <updated>2021-04-21T14:05:17.110Z</updated>
   <id>https://mintcolor.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从零开始的ArchLinux系统安装记录（一）</title>
+    <link href="https://mintcolor.top/2021/0421718.html"/>
+    <id>https://mintcolor.top/2021/0421718.html</id>
+    <published>2021-04-21T13:25:00.000Z</published>
+    <updated>2021-04-21T14:05:17.110Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简短的介绍&quot;&gt;&lt;a href=&quot;#简短的介绍&quot; class=&quot;headerlink&quot; title=&quot;简短的介绍&quot;&gt;&lt;/a&gt;简短的介绍&lt;/h1&gt;&lt;h2 id=&quot;优点&quot;&gt;&lt;a href=&quot;#优点&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://mintcolor.top/tags/Linux/"/>
+    
+    <category term="教程" scheme="https://mintcolor.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
